@@ -1,4 +1,4 @@
-# Теоритическая часть 
+# разворачиваем сетевую лабораторию
 
 Дано
 https://github.com/erlong15/otus-linux/tree/network
